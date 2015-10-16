@@ -16,8 +16,8 @@ void setup() { // this is run once.
   diam = 30; //initialize "diam" as 30
   x = random(40,760); //initialize "x" as a random number
   y = random(40,560); //initialize "y" as a random number
-  speedX = 4; //initialize "speedX" as 4
-  speedY = 4; //initialize "speedX" as 4
+  speedX = 5; //initialize "speedX" as 4
+  speedY = 5; //initialize "speedX" as 4
   cgr = 125; //initialize "cgr" as 255
   rw = 400; //initialize "rw" as 400
   rh = 300;//initialize "rh" as 300
